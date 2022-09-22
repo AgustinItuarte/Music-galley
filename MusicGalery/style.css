@@ -1,0 +1,89 @@
+body{
+    background-image: url(images/background.png);
+    background-size: cover;
+}
+
+.grid-layout{
+    top: 45px;
+    position: relative;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 4px solid black;
+    background-color: lightgray;
+    text-align: center;
+    line-height: 150px;
+}
+
+.grid-layout .img1 {
+    width: 100%;
+    height: 100%;
+ }
+.grid-layout .img2 {
+    width: 100%;
+    height: 100%;
+}
+.grid-layout .img3 {
+    width: 100%;
+    height: 100%;
+}
+.grid-layout .img4 {
+    width: 100%;
+    height: 100%;
+}
+.grid-layout .img5 {
+    width: 100%;
+    height: 100%;
+}
+.grid-layout .img6 {
+    width: 100%;
+    height: 100%;
+}
+.grid-layout .img7 {
+    width: 100%;
+    height: 100%;
+}
+.grid-layout .img8 {
+    width: 100%;
+    height: 100%;
+}
+.grid-layout .img9 {
+    width: 100%;
+    height: 100%;
+}
+.grid-layout .img10 {
+    width: 100%;
+    height: 100%;
+}
+.grid-layout .img11 {
+    width: 100%;
+    height: 100%;
+}
+.grid-layout .img12 {
+    width: 100%;
+    height: 100%;
+}
+.grid-layout .img13 {
+    width: 100%;
+    height: 100%;
+}
+.grid-layout .img14 {
+    width: 100%;
+    height: 100%;
+}
+.grid-layout .img15 {
+    width: 100%;
+    height: 100%;
+}
+.grid-layout .img16 {
+    width: 100%;
+    height: 100%;
+}
